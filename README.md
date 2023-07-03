@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince kumar</h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
+![image](https://github.com/princekr301/princekr301/assets/114976085/773374d7-2394-4fa6-b6db-e6141f6c80b3)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
 
