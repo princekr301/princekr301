@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prince kumar</h1>
-<h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
-
-<img align="right"alt="coding" width-"400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6.gif">
+<h3 align="center"> Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princkr301&label=Profile%20views&color=0e75b6&style=flat" alt="princkr301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princkr301" alt="princkr301" /></a> </p>
 
-- 🌱 I’m currently learning **Data Scintist,AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/princekr301](https://github.com/princekr301)
+- 🌱 I’m currently learning **Data Science**
 
 - 📝 I regularly write articles on [https://mavenanalytics.io/project/6759](https://mavenanalytics.io/project/6759)
 
