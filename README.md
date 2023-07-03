@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince kumar</h1>
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
-<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa25xaUp6NmhWRFRnemV2QmFhRTFfVTFLN2lfd3xBQ3Jtc0tta0hreXpJZURmb0ZHUWNOTXh0Z245NDlyd0pkYWZQYXR1amZmQnNLdG9qdTBGeDNlbGlIVnA3N2tpS2pOUnZwUG1OZWNHOHJjc1hoZm1RU0xOWFg3ckstMUU5Q3lhVGVxb1hweFlxSXctN3RQZ3FIcw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&v=HD4cnRuSGN0"
+<img align="right" alt="coding" width="400" src="https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa25xaUp6NmhWRFRnemV2QmFhRTFfVTFLN2lfd3xBQ3Jtc0tta0hreXpJZURmb0ZHUWNOTXh0Z245NDlyd0pkYWZQYXR1amZmQnNLdG9qdTBGeDNlbGlIVnA3N2tpS2pOUnZwUG1OZWNHOHJjc1hoZm1RU0xOWFg3ckstMUU5Q3lhVGVxb1hweFlxSXctN3RQZ3FIcw&q=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr301" alt="princekr301" /></a> </p>
