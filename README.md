@@ -22,7 +22,7 @@
 
 
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science in Artificial Intellgience with Deep Learning NLP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/princekr301](https://github.com/princekr301)
 
