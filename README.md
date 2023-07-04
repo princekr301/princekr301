@@ -5,6 +5,14 @@
     <h1> Welcome to My GitHub  web.</h1><a href="#" id="download">Download</a>
 </div>
 
+<div id="{
+  width: 100%;
+  background-image: url([http://s30.postimg.org/x0ne0p5wx/bootsrap.png](https://github.com/princekr301/princekr301/blob/main/Yellow%20and%20White%20Geometric%20%20Business%20Facebook%20Cover.png?raw=true));
+  height: 405px;
+  background-color: purple;
+  background-position: center;
+}"></div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr301" alt="princekr301" /></a> </p>
