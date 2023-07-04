@@ -15,6 +15,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princekr301" alt="princekr301" /></a> </p>
 
+
+<h1 align="right">
+ <img src="https://www.bing.com/th/id/OGC.91b513350e4fc3e7ac634fbcca36fc25?pid=1.7&rurl=https%3a%2f%2fmedia3.giphy.com%2fmedia%2fRbDKaczqWovIugyJmW%2fgiphy.gif&ehk=hfkZ%2fimmbJ9WbrsQlpkYHOgt6v%2fdOTxFIdMghd%2bxMp8%3d" />
+</h1>
+
+
 - 🌱 I’m currently learning **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/princekr301](https://github.com/princekr301)
