@@ -6,7 +6,7 @@
 </h1>
 
 <div id="header">
-    <h1> Welcome to My GitHub Youo can cheak my Github Reposiotry ❤️‍🔥💫.</h1><a href="#" id="download">Download</a>
+    <h1> Welcome to My GitHub  ❤.</h1><a href="#" id="download">Download</a>
 </div>
 
 
