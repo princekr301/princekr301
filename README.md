@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Black%20Blue%20Geometric%20Tips%20Business%20Facebook%20Cover.png?raw=true" />
+ <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
 </h1>
 
 <div id="header">
