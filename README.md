@@ -5,10 +5,6 @@
  <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
 </h1>
 
-<div id="header">
-    <h1> Welcome to My GitHub  ❤.</h1><a href="#" id="download">Download</a>
-</div>
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
