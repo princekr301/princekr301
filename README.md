@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Data Science in Artificial Intellgience with Deep Learning NLP**
 
-- 👨‍💻 All of my projects are available at [https://github.com/princekr301](https://github.com/princekr301)
+- 👨‍💻 My Special Blogs at Medium Click Here :- [Medium.com](https://medium.com/@princekumar_95329)
 
 - 📝 I regularly write articles on [https://mavenanalytics.io/project/6759](https://mavenanalytics.io/project/6759)
 
