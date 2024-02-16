@@ -22,7 +22,7 @@
 
 - 👨‍💻 My Special Blogs at Medium Click Here :- [Medium.com](https://medium.com/@princekumar_95329)
 
-- 📝 I regularly write articles on [https://mavenanalytics.io/project/6759](https://mavenanalytics.io/project/6759)
+- 📝 I Regularly Write articles on [Power BI Blog](https://mavenanalytics.io/project/6759)
 
 - 📫 How to reach me **princekr301@gmail.com**
 
