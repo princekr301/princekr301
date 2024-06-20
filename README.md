@@ -2,7 +2,7 @@
 <h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
+ <img src="[https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png](https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fdata-analytics-banner&psig=AOvVaw3L-i-YzkF4Ha1lr2oT52il&ust=1718957166970000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLiY483c6YYDFQAAAAAdAAAAABAE)" />
 </h1>
 
 
